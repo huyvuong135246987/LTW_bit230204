@@ -1,0 +1,257 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px; /* Tạo khoảng cách với phần chính */
+}
+.back-btn {
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.progress-status {
+    font-size: 14px;
+    color: #333;
+}
+
+.status-text {
+    background-color: #ece3ff;
+    color: #7a45ff;
+    padding: 2px 8px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+
+
+
+.container {
+    width: 40%;
+    margin: 50px auto;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 30px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.steps {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 2px solid #e6e7e8;
+    align-items: center;
+}
+
+.step {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #e0e0e0;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+}
+
+.step.active {
+    background: rgba(74, 58, 255, 1);
+}
+
+form {
+    margin: 0 auto;
+    text-align: left;
+}
+
+.form-img {
+    width: 103px;
+    height: 10px;
+}
+.form-img-1 {
+    width: 50px;
+    height: 10px;
+}
+.form-img-2 {
+    width: 53px;
+    height: 10px;
+}
+
+.form-Business {
+    width: 300px;
+}
+
+.form-Business p{
+    color: rgba(138, 138, 138, 1);
+}
+
+
+/* form-group */
+.form-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+/* form-group-01 */
+.form-group-01 {
+    margin-bottom: 15px;
+}
+
+.form-group-01 label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group-01 input {
+    width: calc(50% - 10px);
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group-01 input:last-child {
+    margin-right: 0;
+    width: 265px;
+}
+
+/* form-group-02 */
+.form-group-02 {
+    margin-bottom: 15px;
+}
+
+.form-group-02 label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group-02 input {
+    width: calc(50% - 10px);
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group-02 input:last-child {
+    margin-right: 0;
+    width: 265px;
+}
+
+/* form-group-03 */
+.form-group-03 {
+    margin-bottom: 15px;
+}
+
+.form-group-03 label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group-03 input {
+    width: calc(50% - 10px);
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group-03 input:last-child {
+    margin-right: 0;
+    width: 566px;
+}
+
+/* form-group-04 */
+.form-group-04 {
+    margin-bottom: 15px;
+    display: flex;
+}
+
+.form-group-04 label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group-04 input {
+    width: calc(50% - 10px);
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group-04 input:last-child {
+    margin-right: 0;
+}
+
+
+.back-btn-01 {
+    width: 100%;
+    padding: 10px;
+    background: rgba(74, 58, 255, 1);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+}
+
+
+
+.heros-image-08 {
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    width: 27%;
+    z-index: -1;
+}
+
+.heros-image-09 {
+    position: absolute;
+    top: 63%;
+    left: 0%;
+    width: 15%;
+    z-index: -1;
+}
+
+.heros-image-10 {
+    position: absolute;
+    bottom: 60%;
+    left: 69%;
+    width: 31%;
+    z-index: -1;
+}
+
+.heros-image-11 {
+    position: absolute;
+    bottom: 49%;
+    left: 62%;
+    width: 38%;
+    z-index: -1;
+}
+
+.heros-image-12 {
+    position: absolute;
+    bottom: 47%;
+    right: 0%;
+    width: 10%;
+    z-index: -1;
+}
