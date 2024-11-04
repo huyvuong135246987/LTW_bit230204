@@ -14,3 +14,11 @@ http://127.0.0.1:5500/b%C3%A0i%20ki%E1%BB%83m%20tra%20gi%E1%BB%AFa%20k%E1%BB%B3/
  ![image](https://github.com/user-attachments/assets/5c7818fc-421a-4726-9670-2684d4a76a63)
 
  http://127.0.0.1:5500/b%C3%A0i%20t%E1%BA%ADp%20web/b%C3%A0i-1/1.html
+
+bài 2
+
+ hình ảnh kết quả 
+
+ ![image](https://github.com/user-attachments/assets/63e51b3f-fddd-4671-b769-29dd6811cbc6)
+
+ http://127.0.0.1:5500/b%C3%A0i%20t%E1%BA%ADp%20web/b%C3%A0i-2/bai2.html
