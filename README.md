@@ -7,7 +7,7 @@ hình ảnh kết quả
 http://127.0.0.1:5500/b%C3%A0i%20ki%E1%BB%83m%20tra%20gi%E1%BB%AFa%20k%E1%BB%B3/1.html
 
 
- bài 1 
+ bài 1: 
  
  hình ảnh kết quả 
  
@@ -15,10 +15,29 @@ http://127.0.0.1:5500/b%C3%A0i%20ki%E1%BB%83m%20tra%20gi%E1%BB%AFa%20k%E1%BB%B3/
 
  http://127.0.0.1:5500/b%C3%A0i%20t%E1%BA%ADp%20web/b%C3%A0i-1/1.html
 
-bài 2
+bài 2:
 
  hình ảnh kết quả 
 
  ![image](https://github.com/user-attachments/assets/63e51b3f-fddd-4671-b769-29dd6811cbc6)
 
  http://127.0.0.1:5500/b%C3%A0i%20t%E1%BA%ADp%20web/b%C3%A0i-2/bai2.html
+
+ Bài 3:
+ 
+ hình ảnh kết quả 
+ 
+![image](https://github.com/user-attachments/assets/3e896fcc-1186-45af-8cd6-41aca6bd907a)
+
+http://127.0.0.1:5500/b%C3%A0i%20t%E1%BA%ADp%20web/b%C3%A0i-3/3.html
+
+ bài 4: 
+ 
+ hình ảnh kết quả 
+ 
+ ![image](https://github.com/user-attachments/assets/1ed3eabf-f233-4ed2-83e7-c4ac21ee80e5)
+
+ http://127.0.0.1:5500/b%C3%A0i%20t%E1%BA%ADp%20web/b%C3%A0i-4/4.html
+
+ 
+ 
