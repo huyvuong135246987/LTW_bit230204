@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="stylesheet" href="4.css">
+    <title>Đăng nhập</title>
+</head>
+<body>
+    <div class="login-container">
+        <!-- Form đăng nhập -->
+        <div class="form-login">
+            <a href="#" class="back-home">&lt;&nbsp;Quay lại Trang chủ</a>
+            <h2>Đăng nhập</h2>
+            <form action="#" method="POST">
+                <label for="email">Email đăng nhập</label>
+                <input type="email" id="email" placeholder="Vui lòng nhập email" required>
+                
+                <label for="password">Mật khẩu</label>
+                <div class="password-container">
+                    <input type="password" id="password" placeholder="Vui lòng nhập mật khẩu" required>
+                    <div class="eye-icon" id="togglePassword">
+                        <i class="fa-solid fa-eye"></i>
+                    </div>
+                </div>
+                
+                <div class="forgot-password">
+                    <a href="#">Quên mật khẩu</a>
+                </div>
+                
+                <button type="submit" class="btn-login">Đăng nhập</button>
+            </form>
+            <p>Bạn chưa có tài khoản? <a href="#">Đăng ký</a></p>
+        </div>
+
+       
+        <div class="image-banner">
+            <img src="image/bài.png" alt="">
+        </div>
+    </div>
+
+    <script src="4.js"></script>
+</body>
+</html>
