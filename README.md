@@ -39,5 +39,12 @@ http://127.0.0.1:5500/b%C3%A0i%20t%E1%BA%ADp%20web/b%C3%A0i-3/3.html
 
  http://127.0.0.1:5500/b%C3%A0i%20t%E1%BA%ADp%20web/b%C3%A0i-4/4.html
 
+ bài 7:
+ hình ảnh kết quả 
+ ![image](https://github.com/user-attachments/assets/26ac040a-6900-45aa-af68-f660b3fc7053)
+
+ http://127.0.0.1:5500/b%C3%A0i%20t%E1%BA%ADp%20web/b%C3%A0i-7/7.html
+
+
  
  
